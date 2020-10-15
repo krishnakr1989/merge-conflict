@@ -7,7 +7,7 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
+ Security patch added to master  //Sample Code
 }
 
 
